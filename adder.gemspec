@@ -1,5 +1,5 @@
 Gem::Specification.new do |s|
-  s.name        = 'Adder'
+  s.name        = 'adder'
   s.version     = '0.0.0'
   s.date        = '2016-12-17'
   s.summary     = "Simple adder gem"
